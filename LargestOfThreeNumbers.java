@@ -5,9 +5,9 @@ Sample Output: 12
 Explanation: The program compares three numbers using conditional statements to determine the largest. It reinforces the use of if-else or nested conditions */
 public class LargestOfThreeNumbers {
     public static void main(String[] args){
-        int x=4;
-        int y=6;
-        int z=3;
+        int x=7;
+        int y=12;
+        int z=9;
         if(x>y && x>z){
             System.out.println(x);
         }
