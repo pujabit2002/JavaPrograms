@@ -6,7 +6,7 @@ Explanation: The program reads two integers from the user and performs addition.
 public class AddTwoNumbers {
     public static void main(String[] args) {
         int x=5;
-        int y=6;
+        int y=3;
         int z= x+y;
         System.out.println("The add of two numbers is:" + z);
     }

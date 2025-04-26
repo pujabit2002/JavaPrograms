@@ -5,7 +5,7 @@ Sample Output: Even
 Explanation: The program uses the modulo operator (%) to determine if a number is divisible by 2. It introduces conditional statements (if-else)**/
 public class CheckEvenOddNumber {
     public static void main (String[] args){
-        int x=7;
+        int x=4;
         if(x%2==0){
             System.out.println("The number is even number");
         }
